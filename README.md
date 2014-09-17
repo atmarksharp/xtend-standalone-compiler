@@ -35,6 +35,7 @@ ant run
 ```sh
 git clone https://github.com/atmarksharp/xtend-standalone-compiler
 cd xtend-standalone-compiler
+ant jar
 
 java -jar build/xtend.jar -cp build/xtend.jar resource -d bin
 
