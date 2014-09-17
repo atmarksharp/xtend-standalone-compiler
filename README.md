@@ -1,6 +1,6 @@
 # Xtend Standalone Compiler
 
-**Binary Download :** [xtend.jar](https://github.com/atmarksharp/atmarksharp.github.io/raw/master/xtend-standalone-compiler/xtend.jar) (version 0.1.0)
+**Binary Download :** [xtend.jar](https://github.com/atmarksharp/atmarksharp.github.io/raw/master/xtend-standalone-compiler/xtend.jar)
 
 ## Dependencies
 
