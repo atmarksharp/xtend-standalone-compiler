@@ -1,0 +1,11 @@
+<ivy-module version="2.0">
+    <info organisation="" module="xtend-compiler"/>
+
+    <configurations>
+      <conf name="web"/>
+    </configurations>
+
+    <dependencies>
+      <dependency org="org.eclipse.xtend" name="org.eclipse.xtend.standalone" rev="2.4.3" conf="web->default"/>
+    </dependencies>
+</ivy-module>
