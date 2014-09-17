@@ -2,6 +2,8 @@
 
 **Binary Download:** [xtend.jar](https://github.com/atmarksharp/atmarksharp.github.io/raw/master/xtend-standalone-compiler/xtend.jar)
 
+**Xtend Libraries:** [xtend-libraries.zip](https://github.com/atmarksharp/atmarksharp.github.io/raw/master/xtend-standalone-compiler/xtend-libraries.zip)
+
 **License:** [Eclipse Public Lisence](http://www.eclipse.org/legal/epl-v10.html)
 
 ## Build
