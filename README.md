@@ -9,7 +9,7 @@
 **Dependencies**:
 
 - Ant
-- Ivy ( *copy ivy-\*\*\*.jar to ~/ant/lib/* )
+- Ivy (**copy ivy-xxx.jar to ~/ant/lib/**)
 - JDK 6 (or higher)
 
 **Command:**
