@@ -46,6 +46,6 @@
     </java>
   </target>
 
-  <target name="jar-run" depends="jar,run">
+  <target name="jar-run" depends="resolve,jar,run">
   </target>
 </project>

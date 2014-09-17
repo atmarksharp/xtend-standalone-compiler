@@ -27,7 +27,7 @@ ant jar
 git clone https://github.com/atmarksharp/xtend-standalone-compiler
 cd xtend-standalone-compiler
 
-ant run
+ant
 ```
 
 ### Compile Manually
