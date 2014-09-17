@@ -12,7 +12,7 @@
 - Ivy (**copy ivy-xxx.jar to ~/ant/lib/**)
 - JDK 6 (or higher)
 
-**Command:**
+**Instructions:**
 
 ```sh
 git clone https://github.com/atmarksharp/xtend-standalone-compiler
@@ -33,6 +33,9 @@ ant run
 ### Compile Manually
 
 ```sh
+git clone https://github.com/atmarksharp/xtend-standalone-compiler
+cd xtend-standalone-compiler
+
 java -jar build/xtend.jar -cp build/xtend.jar resource -d bin
 
 #  0  [main] INFO  e.compiler.batch.XtendBatchCompiler  - Compiling 1 source file to .
