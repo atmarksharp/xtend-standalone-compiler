@@ -15,6 +15,15 @@
 ### Instructions
 
 ```sh
+git clone https://github.com/atmarksharp/xtend-standalone-compiler
+cd xtend-standalone-compiler
+
+ant jar
+```
+
+### Instructions (Binary Download)
+
+```sh
 curl https://raw.githubusercontent.com/atmarksharp/xtend-standalone-compiler/master/download-dir.sh | sh
 
 cd xtend-standalone-compiler-master
