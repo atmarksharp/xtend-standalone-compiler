@@ -13,7 +13,7 @@
   </target>
 
   <!-- jar -->
-  <target name="jar">
+  <target name="jar" depends="resolve">
     <delete dir="${build.dir}"/>
     <copy file="${lib.dir}/org.eclipse.xtend.standalone.jar" tofile="${build.dir}/xtend.jar"/>
     <jar update="true" destfile="${build.dir}/xtend.jar">
