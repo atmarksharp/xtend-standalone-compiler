@@ -4,21 +4,29 @@
 
 **License:** [Eclipse Public Lisence](http://www.eclipse.org/legal/epl-v10.html)
 
-## Dependencies
-
-- Ant
-- Ivy
-- JDK 6 (or higher)
-
 ## Build
 
+**Dependencies**:
+
+- Ant
+- Ivy ( *copy ivy-\*\*\*.jar to ~/ant/lib/* )
+- JDK 6 (or higher)
+
+**Command:**
+
 ```sh
+git clone https://github.com/atmarksharp/xtend-standalone-compiler
+cd xtend-standalone-compiler
+
 ant jar
 ```
 
 ### Run Example
 
 ```sh
+git clone https://github.com/atmarksharp/xtend-standalone-compiler
+cd xtend-standalone-compiler
+
 ant run
 ```
 
