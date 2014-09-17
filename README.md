@@ -21,7 +21,7 @@ cd xtend-standalone-compiler
 ant jar
 ```
 
-### Instructions (Binary Download)
+### Instructions using binary (easy)
 
 ```sh
 curl https://raw.githubusercontent.com/atmarksharp/xtend-standalone-compiler/master/download-dir.sh | sh
