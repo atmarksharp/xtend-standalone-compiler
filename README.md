@@ -31,13 +31,13 @@ cd xtend-standalone-compiler-master
 curl https://raw.githubusercontent.com/atmarksharp/xtend-standalone-compiler/master/download-content.sh | sh
 ```
 
-### Run Example
+### Run Examples
 
 ```sh
 ant
 ```
 
-### Compile Manually
+### Run Examples Manually
 
 ```sh
 java -jar build/xtend.jar -cp build/xtend.jar resource -d bin
